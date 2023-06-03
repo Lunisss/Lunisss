@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👋 My name is Jakub, I'm from Poland and I'm a self taught programmer who aspires to develop skills related to backend development. Doing my projects I often make use of the GIT version control system and incorporate all the best practices for clean and efficient code.
+
+Hard working team player efficiently working in any work environment. A friendly colleague, who is not afraid to take on any new challenges.
 <!--
 **Lunisss/Lunisss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
